@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "efficient-contrast"
+  site-url: "https://TahaK.github.io/efficient-contrast"
+  description: "Project page for Accelerating Self-Supervised Learning via Efficient Training Strategies"
+  repo-branch: main
+  repo-url: "https://github.com/TahaK/efficient-contrast"
